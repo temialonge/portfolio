@@ -242,6 +242,7 @@ h6 a {
 .fourth {
     background: url(images/Screen\ Capture\ 005\ -\ Social\ proof\ page\ -\ 127.0.0.1.jpg)center center/cover;
     height: 100vh;
+    background-attachment: fixed;
     width: 100%;
    
 }
@@ -256,6 +257,7 @@ h6 a {
     background: url(images/Screen\ Capture\ 004\ -\ room\ -\ 127.0.0.1.jpg) center center/cover;
     height: 100vh;
     width: 100%;
+    background-attachment: fixed;
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -572,21 +574,24 @@ input{
     }
     .fourth {
         /* display: none; */
-        background: url(/images/Screen\ Capture\ 005\ -\ Social\ proof\ page\ -\ 127.0.0.1.jpg)center;
+        background: url(/images/WhatsApp\ Image1\ 2023-04-23\ at\ 12.53.43\ PM.jpeg);
         background-size: cover;
+        background-attachment: fixed;
         width: 100%;
 
     }
+    
     .fifth{
         /* display: none; */
-        background: url(/images/Screen\ Capture\ 004\ -\ room\ -\ 127.0.0.1.jpg)center;
+        background: url(/images/WhatsApp\ Image2\ 2023-04-23\ at\ 12.53.45\ PM.jpeg)center;
         background-size: cover;
         width: 100%;
     }
     .sixth{
         /* display: none; */
-        background: url(/images/Screen\ Capture\ 003\ -\ sunnyside\ -\ 127.0.0.1.jpg)center;
+        background: url(/images/WhatsApp\ Image3\ 2023-04-23\ at\ 12.53.45\ PM\ \(1\).jpeg)center;
         background-size: cover;
+        background-attachment: fixed;
         width: 100%;
     }
     .seventh {
