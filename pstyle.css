@@ -574,24 +574,27 @@ input{
     }
     .fourth {
         /* display: none; */
-        background: url(/images/WhatsApp\ Image1\ 2023-04-23\ at\ 12.53.43\ PM.jpeg);
+        background-image: url(/images/WhatsApp\ Image1\ 2023-04-23\ at\ 12.53.43\ PM\ \(7\).jpg);
         background-size: cover;
-        background-attachment: fixed;
+        background-position: center;
+        background-attachment: scroll;
         width: 100%;
 
     }
     
     .fifth{
         /* display: none; */
-        background: url(/images/WhatsApp\ Image2\ 2023-04-23\ at\ 12.53.45\ PM.jpeg)center;
+        background-image: url(/images/WhatsApp\ Image2\ 2023-04-23\ at\ 12.53.43\ PM\ \(6\).jpg);
         background-size: cover;
+        background-position: center;
         width: 100%;
     }
     .sixth{
         /* display: none; */
-        background: url(/images/WhatsApp\ Image3\ 2023-04-23\ at\ 12.53.45\ PM\ \(1\).jpeg)center;
+        background-image: url(/images/WhatsApp\ Image3\ 2023-04-23\ at\ 12.53.43\ PM\ \(5\).jpg);
         background-size: cover;
-        background-attachment: fixed;
+        background-position: center;
+        background-attachment: scroll ;
         width: 100%;
     }
     .seventh {
