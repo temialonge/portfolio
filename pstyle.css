@@ -571,7 +571,7 @@ input{
     
     .fifth{
        
-        background-image: url(/images/WhatsApp\ Image2\ 2023-04-24\ at\ 10.07.24\ AM.png);
+        background: url(/images/WhatsApp\ Image2\ 2023-04-24\ at\ 10.07.24\ AM.png);
         background-size: cover;
         background-position: center;
         width: 100%;
@@ -639,6 +639,7 @@ input{
     .social-icon{
         padding-bottom: 17px;
     }
+    
 
 
 }
