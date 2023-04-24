@@ -570,8 +570,7 @@ input{
     }
     
     .fifth{
-       
-        background: url(/images/WhatsApp\ Image2\ 2023-04-24\ at\ 10.07.24\ AM.png);
+        background-image: url(images/WhatsApp\ Image2\ 2023-04-24\ at\ 10.07.24\ AM.png);
         background-size: cover;
         background-position: center;
         width: 100%;
@@ -579,7 +578,7 @@ input{
     }
     .sixth{
      
-        background-image: url(/images/WhatsApp\ Image3\ 2023-04-24\ at\ 10.07.24\ AM.png);
+        background-image: url(images/WhatsApp\ Image3\ 2023-04-24\ at\ 10.07.24\ AM.png);
         background-size: cover;
         background-position: center;
         /* background-attachment: fixed ; */

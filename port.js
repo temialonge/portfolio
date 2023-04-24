@@ -1,4 +1,6 @@
 const parallax = document.getElementById("parallax");
+const parallaxx = document.getElementById("parallaxx");
+const parallaxxx = document.getElementById("parallaxxx");
 
 window.addEventListener("scroll", () =>
 {
